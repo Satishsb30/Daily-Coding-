@@ -69,6 +69,5 @@ if age >= 18:
 elif age < 18:
     print("You are a minor")
 
-git config --global user.name "Satishsb30"
-git config --global user.email "budunursatishsb@gmail.com"
+
 
