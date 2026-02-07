@@ -43,7 +43,6 @@ print(tcs)
 print(type(tcs))
 
 """Set Operations:
-
 Create two sets: one with your favorite fruits and another with your friend’s 
 favorite fruits.
 Find the union, intersection, and difference between the two sets.
