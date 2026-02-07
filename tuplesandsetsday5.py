@@ -33,7 +33,7 @@ Concatenate the tuple with another tuple.
 """
 t= ("alexa","mango","apple","world","hp")
 print(t)
-#t[0]= "google"
+# t[0]= "google"
 print(t[1:3])
 t1=("victus",)
 tc= (1,2,3,)
