@@ -29,7 +29,7 @@ Update the dish for Bengaluru.
 Remove one city from the dictionary.
 Use the keys() method to print all city names in the dictionary.
 Use the values() method to print all dishes in the dictionary."""
-# Step 1: Create a dictionary with 5 cities in Karnataka and their famous dishes
+
 karnataka_dishes = {
     "Bengaluru": "Bisi Bele Bath",
     "Mysuru": "Mysore Pak",
